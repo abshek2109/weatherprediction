@@ -10,7 +10,7 @@ def tell_weather() :
 	import requests, json
 
 	# enter your api key here
-	api_key = "bcbab04440acac3c64230c92cb92930b"
+	api_key = "hidden key"
 
 	# base_url variable to store url
 	base_url = "http://api.openweathermap.org/data/2.5/weather?"
